@@ -1,0 +1,18 @@
+.parent1{
+    
+    background-color: aqua;
+    height: 150vh;
+    width: 75%;
+}
+.parent2{
+   
+    background-color: red;
+    height:400px;
+    width:400px;
+}
+.child{
+   
+    background-color: black;
+    height: 180px;
+    width:180px;
+}
